@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class ballcontrol : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
 
@@ -18,7 +17,6 @@ public class ballcontrol : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
     void Update()
     {
         
